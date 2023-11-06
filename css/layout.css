@@ -787,7 +787,7 @@ footer .copy {
 
 .serviceInner .web {
   width: 130px;
-  height: fit-content;
+  /* height: fit-content; */
   margin-right: 30px;
 }
 .serviceInner .graphic {

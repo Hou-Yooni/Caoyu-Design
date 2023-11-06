@@ -792,7 +792,7 @@ footer .copy {
 }
 .serviceInner .graphic {
   width: 100px;
-  height: fit-content;
+  /* height: fit-content; */
   margin-right: 30px;
 }
 h6.service {

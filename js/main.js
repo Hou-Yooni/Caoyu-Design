@@ -77,7 +77,7 @@ $(function () {
   $(".section").on("click", ".mouse-btn", function () {
     $("body,html").animate(
       {
-        scrollTop: b - 112,
+        scrollTop: b - 90,
       },
       800
     );
